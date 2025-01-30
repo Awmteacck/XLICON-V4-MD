@@ -44,13 +44,13 @@ global.socialm = "GitHub: Awmteacck" //ur github or insta name
 global.location = "India, Mizoram, Serchhip" //ur location
 
 //new
-global.botname = 'XLICON-V4-MD' //ur bot name
+global.botname = 'VENOM' //ur bot name
 global.ownernumber = ['918787651195'] //ur owner number, dont add more than one
 global.ownername = 'Awmtea Polythene' //ur owner name
 global.websitex = "https://youtu.com/@awmtea-polythene"
 global.wagc = "https://whatsapp.com/channel/0029Vakp5lvI7BeHPAtVmx2a"
 global.themeemoji = '⛩'
-global.wm = "Xlicon Bot Inc."
+global.wm = "Venom Bot Inc."
 global.botscript = 'https://github.com/Awmteacck/XLICON-V4-MD' //script link
 global.packname = "Awmtea Polythene"
 global.author = "MΛDΣ BY Awmtea Polythene"
